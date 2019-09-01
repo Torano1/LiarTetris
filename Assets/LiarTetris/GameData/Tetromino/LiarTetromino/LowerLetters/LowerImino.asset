@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 321e2ead0ba694945afe3fd129be20b9, type: 3}
+  m_Name: LowerImino
+  m_EditorClassIdentifier: 
+  isLiarTetris: 1
+  type: 1
+  color: {r: 0.9150943, g: 0.06474723, b: 0.8442323, a: 1}
+  offset: {x: 0.5, y: 0.5}
+  positions:
+  - {x: -1.5, y: 0.5}
+  - {x: -0.5, y: 0.5}
+  - {x: 1.5, y: 0.5}
+  spawnRate: 10
