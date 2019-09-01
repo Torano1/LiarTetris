@@ -10,7 +10,7 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
-# master
+# branch0test
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
