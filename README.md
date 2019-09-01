@@ -1,11 +1,12 @@
 # LiarTetris
-This is a Tetris variant for Community Game Jam (https://itch.io/jam/cgj).
+This is a Tetris variant for Community Game Jam.
+https://itch.io/jam/cgj
 
 ## Play
 Play the initial release in itch.io and rate it please! 
 https://torano.itch.io/liar-tetris
 
 I will add some updates on the game and you can play that version in my GitHub Pages.
-https://github.com/Torano1/LiarTetris/tree/gh-pages
+https://torano1.github.io/LiarTetris/
 
 Thanks.
